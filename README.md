@@ -11,4 +11,7 @@
 
 ## メモ
 
-`b.Hello()` を呼び出せるのは `internal/foo.go` と `internal/a/a.go` のみ.
+`b.Hello()` を呼び出せるのは
+- `internal/foo.go`
+- `internal/a/a.go`
+- `internal/a/d/d.go`
